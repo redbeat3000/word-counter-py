@@ -5,4 +5,4 @@ a = input("Type in a couple words:")
 x = len(a)
 
 #print length
-print(f"The number of charaters in 'a' are {x} !")
+print(f"The number of characters in 'a' are {x} !")
